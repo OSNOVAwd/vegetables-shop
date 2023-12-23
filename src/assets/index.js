@@ -1,0 +1,1 @@
+export {default as AboutBanner} from './about-banner.jpg'
