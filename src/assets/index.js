@@ -1,1 +1,1 @@
-export {default as AboutBanner} from './about-banner.jpg'
+export {default as AboutBanner} from './apelsin.jpg'
