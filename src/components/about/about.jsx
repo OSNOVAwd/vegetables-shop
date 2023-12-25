@@ -1,3 +1,4 @@
+import { AboutBanner } from "../../assets"
 import Button from "../../form-elements/button/button"
 
 const About = () => {
