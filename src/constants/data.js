@@ -1,4 +1,5 @@
 import { CiSearch } from "react-icons/ci";
+import { Apelsin, Bodring, Brokoli, Karam, Makka, Nok, Olma, Piyoz, Pomidor, Qalampir, Sabzi, Shaftoli } from "../assets";
 
 
 export const listItems = [
@@ -48,63 +49,63 @@ export const slideData = [
 
  export const products = [
   {
-    image: "../assets/img/apelsin.jpg",
+    image: Apelsin,
     title: "Apelsin",
-    price: "5$",
+    price: 5,
   },
   {
-    image: "../assets/img/bodring.jpg.jpg",
+    image: Bodring,
     title: "Bodring",
-    price: "6.75$",
+    price: 6.75,
   },
   {
-    image: "../assets/img/brokoli.jpg",
+    image: Brokoli,
     title: "Brokoli",
-    price: "2$",
+    price: 2,
   },
   {
-    image: "../assets/img/karam.jpg.jpg",
+    image: Karam,
     title: "Karam",
-    price: "7.5$",
+    price: 7.5,
   },
   {
-    image: "../assets/img/makka.jpg",
+    image: Makka,
     title: "Makka",
-    price: "11$",
+    price: 11,
   },
   {
-    image: "../assets/img/nok.jpg",
+    image: Nok,
     title: "Nok",
-    price: "3.4$",
+    price: 3.4,
   },
   {
-    image: "../assets/img/olma.jpg",
+    image: Olma,
     title: "Olma",
-    price: "3.1$",
+    price: 3.1,
   },
   {
-    image: "../assets/img/piyoz.jpg",
+    image: Piyoz,
     title: "Piyoz",
-    price: "8$",
+    price: 8,
   },
   {
-    image: "../assets/img/pomidor.jpg",
+    image: Pomidor,
     title: "Pomidor",
-    price: "9$",
+    price: 9,
   },
   {
-    image: "../assets/img/qalampir.jpg",
+    image: Qalampir,
     title: "Qalampir",
-    price: "14$",
+    price: 3,
   },
   {
-    image: "../assets/img/sabzi.jpg",
+    image: Sabzi,
     title: "Sabzi",
-    price: "13.9$",
+    price: 10.9,
   },
   {
-    image: "../assets/img/shaftoli.jpg",
+    image: Shaftoli,
     title: "Shaftoli",
-    price: "7$",
+    price: 7,
   },
  ]

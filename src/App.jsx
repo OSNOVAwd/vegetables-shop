@@ -5,7 +5,7 @@ import Products from "./components/products/products"
 
 const App = () => {
   return (
-    <>
+    <div className="over-flow hidden">
      <Navbar/>
      <Routes>
       <Route path='/' element={<HomePage/>}/>
@@ -17,7 +17,7 @@ const App = () => {
       <Route path='/sign-up' element={<SignUp/>}/>
      </Routes>
      <Footer/>
-    </>
+    </div>
     )
 }
 
