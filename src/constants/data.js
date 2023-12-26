@@ -46,4 +46,65 @@ export const slideData = [
  
  ]
 
- export const products = []
+ export const products = [
+  {
+    image: "../assets/img/apelsin.jpg",
+    title: "Apelsin",
+    price: "5$",
+  },
+  {
+    image: "../assets/img/bodring.jpg.jpg",
+    title: "Bodring",
+    price: "6.75$",
+  },
+  {
+    image: "../assets/img/brokoli.jpg",
+    title: "Brokoli",
+    price: "2$",
+  },
+  {
+    image: "../assets/img/karam.jpg.jpg",
+    title: "Karam",
+    price: "7.5$",
+  },
+  {
+    image: "../assets/img/makka.jpg",
+    title: "Makka",
+    price: "11$",
+  },
+  {
+    image: "../assets/img/nok.jpg",
+    title: "Nok",
+    price: "3.4$",
+  },
+  {
+    image: "../assets/img/olma.jpg",
+    title: "Olma",
+    price: "3.1$",
+  },
+  {
+    image: "../assets/img/piyoz.jpg",
+    title: "Piyoz",
+    price: "8$",
+  },
+  {
+    image: "../assets/img/pomidor.jpg",
+    title: "Pomidor",
+    price: "9$",
+  },
+  {
+    image: "../assets/img/qalampir.jpg",
+    title: "Qalampir",
+    price: "14$",
+  },
+  {
+    image: "../assets/img/sabzi.jpg",
+    title: "Sabzi",
+    price: "13.9$",
+  },
+  {
+    image: "../assets/img/shaftoli.jpg",
+    title: "Shaftoli",
+    price: "7$",
+  },
+ ]
